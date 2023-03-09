@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l, ls -in, ls -a
+ls -lan
