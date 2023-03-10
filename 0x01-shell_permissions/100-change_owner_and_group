@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent/saff
+chown /vincent:/saff/00-change_owner_and_group
